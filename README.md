@@ -1,5 +1,11 @@
 # Personal Portfolio Website
 
+![Portfolio Website](portfolio-preview.png)
+
+A modern and responsive portfolio website built using HTML, CSS, and JavaScript.
+
+# Personal Portfolio Website
+
 A modern and responsive portfolio website developed using HTML, CSS, and JavaScript. The website showcases my skills, projects, resume, and contact details with a clean user interface and mobile-friendly design.
 
 ## Features
